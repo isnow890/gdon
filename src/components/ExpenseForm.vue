@@ -2,7 +2,7 @@
   <q-card flat bordered>
     <q-card-section>
       <div class="text-h6 q-pt-sm">
-        💸💰 이 돈으로 다른 무엇을 할 수 있을까요? 💰💸
+        💰이 돈으로 다른 무엇을 할 수 있을까요?💸
       </div>
     </q-card-section>
 
